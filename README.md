@@ -1,36 +1,17 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Ship It With React &amp; Next.js
 
-## Getting Started
+Workshop presented by Victoria Da Rosa.
 
-First, run the development server:
+# Description
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Looking for a way to quickly build a demo for your hackathon project or take it to the next level? In this workshop, you’ll dive into the world of full-stack development and learn to create dynamic, high-performance web applications using React and Next.js. You’ll leave with hands-on experience building a full-stack app from scratch, plus the skills and confidence to spin up and deploy your own projects in record time.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+# Requirements
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+* [Node.js v18.18+](https://nodejs.org/en)
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+# Learning Outcomes
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+* Explore the core principles and features of React, including components, state management, and hooks, to build dynamic and interactive user interfaces
+* Learn how to leverage Next.js for server-side rendering, static site generation, and API routes to create performant and scalable full-stack applications
+* Code along in a step-by-step live demo of building a modern full-stack web app using React and Next.js, showcasing best practices and real-world applications
