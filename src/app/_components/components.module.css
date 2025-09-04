@@ -1,0 +1,13 @@
+.task-text {
+  color: white;
+  margin: 0;
+  margin-top: 10px;
+}
+
+.task-text:hover {
+  cursor: pointer;
+}
+
+.task-done {
+  text-decoration: line-through;
+}
